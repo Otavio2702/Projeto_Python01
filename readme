@@ -1,0 +1,49 @@
+# 🍔 Projeto Python — Fast Food & Delivery
+
+Projeto desenvolvido durante meus estudos de **Python** na **Alura**, com o objetivo de praticar os principais conceitos da linguagem através da criação de uma aplicação que simula uma plataforma de **fast food/delivery**, inspirada em aplicativos como o iFood.
+
+## 🚧 Status do projeto
+
+**Em desenvolvimento**
+
+O projeto ainda está sendo desenvolvido e novas funcionalidades serão adicionadas conforme avanço nos estudos de Python.
+
+## 🐍 Tecnologias utilizadas
+
+* Python
+* Visual Studio Code
+* Git e GitHub
+
+## 📌 Sobre o projeto
+
+A aplicação simula uma plataforma de delivery de alimentos, permitindo trabalhar com diferentes opções de restaurantes e interações através de um menu.
+
+Durante o desenvolvimento, são praticados conceitos fundamentais de Python, como:
+
+* Variáveis
+* Listas
+* Dicionários
+* Funções
+* Estruturas condicionais (`if`, `elif` e `else`)
+* Estruturas de repetição
+* Manipulação de dados
+* Entrada e saída de informações
+* Organização do código
+
+## 🎯 Objetivo
+
+O principal objetivo deste projeto é colocar em prática os conhecimentos adquiridos durante meus estudos de Python e desenvolver uma base sólida para projetos maiores no futuro.
+
+## 📚 Estudos
+
+Projeto desenvolvido como parte dos meus estudos de **Python na Alura**.
+
+## 👨‍💻 Autor
+
+**Otavio Augusto**
+
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação, atualmente focado no aprendizado de Python e no desenvolvimento de projetos para meu portfólio.
+
+---
+
+⭐ Este projeto faz parte da minha jornada de aprendizado em programação e continuará evoluindo conforme avanço nos estudos.
